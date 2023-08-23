@@ -93,3 +93,4 @@ class Herramientas:
         if (numero > 1):
             numero = numero * self.__factorial(numero - 1)
         return numero
+
